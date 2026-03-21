@@ -2,7 +2,7 @@
 
 ## **Background about me** 
 Hi, my name is Anusha :smile:. I am excited for my career switch into tech *especially with the CFG team*. 
-Prior to this, I was in finance for 2.5 years and have a background in teaching. You can find my linked in profile [here](https://www.linkedin.com/in/anusha-chandrasegaram/). 
+Prior to this, I was in finance for 2.5 years and have a background in teaching. You can find my Linkedin profile [here](https://www.linkedin.com/in/anusha-chandrasegaram/). 
 
 This is my first time using Git and the learning curve has been steep. 
 
