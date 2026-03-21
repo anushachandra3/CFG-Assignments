@@ -1,6 +1,6 @@
 # **CFG Degree- Foundation Module Assignments** 
 
-## **Background about me** 
+## **About me** 
 Hi, my name is Anusha :smile:. I am excited for my career switch into tech *especially with the CFG team*. 
 Prior to this, I was in finance for 2.5 years and have a background in teaching. You can find my Linkedin profile [here](https://www.linkedin.com/in/anusha-chandrasegaram/). 
 
@@ -38,12 +38,18 @@ I created a new branch by using git checkout -b feature-branch
 I added changes to a file and committed a meaningful message using git add and git commit. 
 ![Git Add and Git Commit](Screenshot-git-add-%20git-commit.png)
 
-#### 4. Opening a pull request 
+### 4. Opening a pull request 
 A pull request was created on GitHub to pull changes into the main branch. 
 ![pull request](Screenshot-pull-request-change%20.png)
 
-#### 5. Merging to main branch 
+### 5. Merging to main branch 
 The feature branch was merged into the main. 
 ![Merge](Screenshot-merging-deploying-main-branch.png)
 
+### Other files
 
+## .gitignore
+The `.gitignore` file tells Git which files or folders should not be tracked or uploaded to the repository. This includes personal data, temporary files and sensitive data e.g. passwords. 
+
+## requirements.txt 
+This file contains all the Python packages or libraries required for the project. It can all be installed by pip, when using pip install. This provides a consistent environment and allows for collaboration to be easier. 
