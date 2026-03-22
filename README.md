@@ -29,12 +29,12 @@ I have worked on other projects whilst navigating my transition into tech.
 **1. <ins>Checking the status</ins>**
 
 I used git status to check repository changes. 
-![Git Status](Screenshot-using-git-status-resized.png)
+![Git Status](Screenshot-resized-using-git-status.png)
 
 **2. <ins>Creating a branch</ins>** 
 
 I created a new branch by using git checkout -b feature-branch.
-![New Branch](Screenshot-creating-a-branch-resized.png)
+![New Branch](Screenshot-resized-creating-a-%20branch.png)
 
 **3. <ins>Adding files & Commits with meaningful messages</ins>**
 
@@ -49,7 +49,7 @@ A pull request was created on GitHub to pull changes into the main branch.
 **5. <ins>Merging to main branch</ins>** 
 
 The feature branch was merged into the main. 
-![Merge](Screenshot-merging-deploying-main-branch-resized.png)
+![Merge](Screenshot-resized-merging-deploying-main-branch.png)
 
 ## Other files
 
