@@ -29,12 +29,12 @@ I have worked on other projects whilst navigating my transition into tech.
 **1. <ins>Checking the status</ins>**
 
 I used git status to check repository changes. 
-![Git Status](Screenshot-using-git-status.png)
+![Git Status](Screenshot-using-git-status-resized.png)
 
 **2. <ins>Creating a branch</ins>** 
 
-I created a new branch by using git checkout -b feature-branch
-![New Branch](Screenshot-creating-a-branch.png)
+I created a new branch by using git checkout -b feature-branch.
+![New Branch](Screenshot-creating-a-branch-resized.png)
 
 **3. <ins>Adding files & Commits with meaningful messages</ins>**
 
@@ -49,7 +49,7 @@ A pull request was created on GitHub to pull changes into the main branch.
 **5. <ins>Merging to main branch</ins>** 
 
 The feature branch was merged into the main. 
-![Merge](Screenshot-merging-deploying-main-branch.png)
+![Merge](Screenshot-merging-deploying-main-branch-resized.png)
 
 ## Other files
 
@@ -59,4 +59,4 @@ The `.gitignore` file tells Git which files or folders should not be tracked or 
 
 **<ins>requirements.txt</ins>**
 
-This file contains all the Python packages or libraries required for the project. It can all be installed by pip, when using pip install. This provides a consistent environment and allows for collaboration to be easier. 
+This file contains all the Python packages or libraries required for the project. They can all be installed by pip, when using pip install. This provides a consistent environment and allows collaboration to be easier. 
